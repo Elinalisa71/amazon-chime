@@ -31,4 +31,4 @@ Start calls and chats
 Share files securely
 
 Conclusion
-With this [Amazon Chime login guide](https://www.tycoonstory.com/amazon-chime-login/), you’ll be ready to connect and collaborate quickly. No hassle, no confusion—just seamless communication at your fingertips.
+With this [Amazon Chime login](https://www.tycoonstory.com/amazon-chime-login/) guide, you’ll be ready to connect and collaborate quickly. No hassle, no confusion—just seamless communication at your fingertips.
